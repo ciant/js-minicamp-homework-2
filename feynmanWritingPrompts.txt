@@ -1,0 +1,25 @@
+Feynman Writing Prompts
+
+1. for loop =
+    A for loop can execute a piece of code many times, each time using a different value.
+    You state in your for loop a condition, which must be true for the loop to continue executing code.
+    Once this condition becomes false, the loop stops.
+
+2.  && = And operator, returns true when both expressions are true.
+    || = OR operator, returns true if at least one of the expressions are true.
+    ! = Not operator, returns true for false statements and false for true statements.
+
+3.  Array =
+    An array is variable that can hold many values in a single variable.
+
+4.  Git =
+    Git is a version control system. Git stores snapshots of versions of your code.
+    You can roll back your code to a previous working version at any time, and makes collaborating easy.
+    When a change is made it can be reviewed and merged into the working branch of code.
+    Fork, write code, merge, repeat. With all modifications along the way are stored.
+
+5.  GitHub =
+    GitHub is a git interface. It allows you to store your git versions. It focuses on collaboration.
+    Forking is a main feature of GitHub, it allows you to make a copy of a project you don't have write access to.
+    You can then make changes or improvements and send a 'pull request', to the owner who can then merge the versions.
+    This makes open source code collaboration very efficient. 
